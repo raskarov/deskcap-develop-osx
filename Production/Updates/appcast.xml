@@ -1382,4 +1382,11 @@
 	<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-develop-osx/master/Production/Updates/Monitask-0.3.48.zip" sparkle:version="348" sparkle:shortVersionString="0.3.48" length="25968778" type="application/octet-stream"/>
 </item>
 
+<item>
+	<title>0.3.49</title>
+	<pubDate>Thu, 25 Apr 2024 02:40:55 +0000</pubDate>
+	<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+	<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-develop-osx/master/Production/Updates/Monitask-0.3.49.zip" sparkle:version="349" sparkle:shortVersionString="0.3.49" length="26059345" type="application/octet-stream"/>
+</item>
+
 </channel></rss>
