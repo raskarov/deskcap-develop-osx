@@ -1837,4 +1837,11 @@
 	<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-develop-osx/master/Production/Updates/Monitask-0.4.14.zip" sparkle:version="414" sparkle:shortVersionString="0.4.14" length="27741580" type="application/octet-stream"/>
 </item>
 
+<item>
+	<title>0.4.15</title>
+	<pubDate>Thu, 09 Oct 2025 06:28:33 +0000</pubDate>
+	<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+	<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-develop-osx/master/Production/Updates/Monitask-0.4.15.zip" sparkle:version="415" sparkle:shortVersionString="0.4.15" length="27746675" type="application/octet-stream"/>
+</item>
+
 </channel></rss>
